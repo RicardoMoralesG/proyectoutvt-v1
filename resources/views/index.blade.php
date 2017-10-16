@@ -76,7 +76,7 @@
                          <ul>
                             <li><a href="login">Login</a></li>
 							<li><a href="signup">Signup</a></li>
-							<li><a href="">Cuestionario</a></li>
+							<li><a href="">Cuesti</a></li>
                         </ul>
                     </li>
                 </ul>
